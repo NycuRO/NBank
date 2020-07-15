@@ -1,2 +1,2 @@
 # NBank
-A little project make in 10 minutes. An object class to "administrate a bank account". 
+A little project maded in 10 minutes. An object class which "administrate a bank account". 
